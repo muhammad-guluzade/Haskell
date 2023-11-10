@@ -14,4 +14,6 @@ Data type looks like this : familytree [“Nikolaus1”, “Jacob I”, “Nikol
 1716), (1687,1759), (1667, 1748), (1695, 1726), (1700, 1782), (1710, 1790), (1746, 1807), (1759,
 1789)]
 
-This is the family tree. Each list index is common for all three lists, meaning that Nikolaus1 had 3 children, was born at 1623, and died at 1708, Jacob I had 0 children, was born at 1654, and died at 1705, and was **the son** of Nikolaus1. Nikolaus1's children are **next 3 people in the list of names**.
+This is the family tree. Each list index is common for all three lists, meaning that Nikolaus1 had 3 children, was born at 1623, and died at 1708, Jacob I had 0 children, was born at 1654, and died at 1705, and was **the son** of Nikolaus1. Nikolaus1's children are **next 3 people in the list of names**. This pattern applies to entire data type.
+
+Upon the completion of this assignment, one would gain deep insight into **functional programming** and especially **recursion**.
